@@ -1,5 +1,6 @@
 # GPT-Neo_Text-Generation
 
+![image](main.png)
 
 
 # Credits:
